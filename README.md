@@ -7,7 +7,7 @@ composer require malangapp/malangcore
 
 ---
 
-!Config
+## Config
 ```
 [Config]
 /config/mlc_config.json
@@ -19,7 +19,7 @@ composer require malangapp/malangcore
 ```
 /action/[page-name].php
 ```
-!index.php
+## index.php
 ```
 <?php
 use MLCore\v1\MLCore;
@@ -31,7 +31,7 @@ $Config = $Malang->Config();
 $Malang->routing();
 $Malang->ApiMode();
 ```
-!.htaccess
+## .htaccess
 ```
 RewriteEngine on
 RewriteRule ^(.*)$ index.php?q=$1 [L,QSA]
