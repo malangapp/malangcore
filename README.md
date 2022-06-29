@@ -1,6 +1,9 @@
 # malangcore
 MalangCore - PHP
-```composer require malangapp/malangcore```
+
+```
+composer require malangapp/malangcore
+```
 
 ---
 

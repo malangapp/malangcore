@@ -1,0 +1,16 @@
+{
+  "ver" : "1.0.0",
+  "describe" : "ERROR MESSAGE LIST",
+  "data" : {
+    "101" : {
+      "code" : 101,
+      "en": "System Error",
+      "ko": "시스템 에러"
+    },
+    "102" : {
+      "code" : 102,
+      "en": "System Error",
+      "ko": "시스템 에러"
+    }
+  }
+}

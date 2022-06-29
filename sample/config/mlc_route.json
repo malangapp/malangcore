@@ -1,0 +1,16 @@
+{
+  "ver" : "1.0.0",
+  "describe" : "ROUTE LIST",
+  "data" : {
+    "index" : {
+      "action" : "index"
+    },
+    "sdf": {
+      "sdf": {
+        "sdf": {
+          "action" : "test"
+        }
+      }
+    }
+  }
+}

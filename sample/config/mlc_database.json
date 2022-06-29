@@ -1,0 +1,15 @@
+{
+  "ver" : "1.0.0",
+  "describe" : "DATABASE LIST",
+  "data" : {
+    "main": {
+      "name": "main",
+      "host": "",
+      "user": "",
+      "pass": "",
+      "schema": "",
+      "port": 3306,
+      "charset": "utf8mb4"
+    }
+  }
+}
